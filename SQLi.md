@@ -1,8 +1,4 @@
-# Centralized Covid Vaccination Records System v1.0 has SQL injection
-
 BUG_Author:garrett
-
-Website source address:https://www.sourcecodester.com/php/14997/centralized-covid-vaccination-records-system-php-free-source-code.html
 
 Vulnerability File: /vaccinated/admin/maintenance/manage_location.php
 
